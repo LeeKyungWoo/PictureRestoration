@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_restoration"
+        android:icon="@android:drawable/ic_menu_revert"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_recover"/>
+    <item
+        android:id="@+id/action_delete"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_deletion"/>
+    <!-- Settings, should always be in the overflow --> 
+     <item
+        android:id="@+id/action_allselect"
+        android:showAsAction="never"
+        android:title="@string/action_all_check"/>
+     
+     <item
+        android:id="@+id/action_information"
+        android:showAsAction="never"
+        android:title="@string/action_information"/>
+     
+<!--     <item
+        android:id="@+id/action_settings"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/> -->
+
+</menu>

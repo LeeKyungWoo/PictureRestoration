@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--     <string name="app_name">PictureRestoration</string>
+    <string name="action_settings">Setting</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_deletion">Completely deleted</string> 영구삭제
+    <string name="action_all_check">All Check</string> 전체선택
+    <string name="action_recover">Recover</string> 복구
+    <string name="hello_restoration">Photo Recovery</string>
+    <string name="action_title">If you have many photos you can take some time</string>
+    <string name="actionbar_title">DCIM Photo Recovery</string>
+    <string name="app_loading">Loading....</string>
+    <string name="exit_title">Exit</string>
+    <string name="exit_content">Are you sure that want to quit the program?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+ 	<string name="noti">Notifications</string> -->
+ 	
+ 	<string name="app_name">사진 복구 도우미</string>
+    <string name="action_settings">Setting</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_deletion">영구삭제</string> <!-- 영구삭제 -->
+    <string name="action_all_check">모두선택</string> <!-- 전체선택 -->
+    <string name="action_information">앱 정보</string> <!-- 앱정보-->
+    <string name="action_recover">복구하기</string> <!-- 복구 -->
+    <string name="hello_restoration">사진복구</string>
+    <string name="action_title">사진이 많을 경우 오래걸릴 수 있습니다!!</string>
+    <string name="actionbar_title">DCIM 사진 복구</string>
+    <string name="app_loading">사진 백업중입니다..</string>
+    <string name="exit_title">종료</string>
+    <string name="exit_content">어플리케이션을 종료하시겠습니까?</string>
+    <string name="nodata">복구할 사진이 없습니다</string>
+    <string name="yes">예</string>
+    <string name="no">아니오</string>
+ 	<string name="noti">알림</string>
+</resources>
